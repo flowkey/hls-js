@@ -1,6 +1,6 @@
 Package.describe({
     name: 'flowkey:hls-js',
-    version: '0.4.1',
+    version: '0.4.2',
 
     // Brief, one-line summary of the package.
     summary: 'HLS.js - Javascript only HLS implementation',
